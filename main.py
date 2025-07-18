@@ -8,7 +8,7 @@ GLOBAL_BEST = 0             # Global Best of Cost function
 B_LO = -5                   # Upper boundary of search space
 B_HI = 5                    # Upper boundary of search space
 
-POPULATION = 300             # Number of particles in the swarm
+POPULATION = 50             # Number of particles in the swarm
 V_MAX = 0.1                 # Maximum velocity value
 PERSONAL_C = 1.5            # Personal coefficient factor
 SOCIAL_C = 1.5              # Social coefficient factor
